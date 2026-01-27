@@ -1,0 +1,28 @@
+{
+  "registry": "https://ghcr.io",
+  "org": "autowarefoundation",
+  "image": "autoware",
+  "tags": [
+    "universe-devel",
+    "universe-devel-cuda",
+    "core-devel"
+  ],
+  "timestamp": "2026-01-14T22:10:37.309734+00:00",
+  "images": [
+    {
+      "tag": "universe-devel",
+      "error": "Docker command failed: invalid reference format\n",
+      "fetched_at": "2026-01-14T22:10:37.381769+00:00"
+    },
+    {
+      "tag": "universe-devel-cuda",
+      "error": "Docker command failed: invalid reference format\n",
+      "fetched_at": "2026-01-14T22:10:37.389630+00:00"
+    },
+    {
+      "tag": "core-devel",
+      "error": "Docker command failed: invalid reference format\n",
+      "fetched_at": "2026-01-14T22:10:37.397395+00:00"
+    }
+  ]
+}
